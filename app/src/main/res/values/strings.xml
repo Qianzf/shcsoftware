@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">智能办公提示牌（Beta）</string>
+    <string name="action_settings">使用帮助</string>
+    <string name="help_title">智能办公提示牌客户端使用帮助</string>
+    <string name="help_info">1、服务器IP以及端口\n服务器ip地址可以参见屏幕上显示的ip地址以及端口。默认为
+                             192.168.4.1,端口为4848端口。（暂时不提供修改的接口）。
+                            \n\n
+                            2、无线网\n设备启动后产生一个名字为“Qianzf”的无线信号，密码为*********。\n\n
+                            3、如何使用\n连接到设备发出的无线网过后，打开客户端程序，输入你想设置的标题信息和具体的显示信息
+        后，点击提交后，系统会自动更新提示牌上显示的信息内容。(注意：标题内容字数限制在20字内，提示信息限制在250字数内。)\n\n
+                            4、其它说明\n本系统由Qianzf(钱中飞)开发设计，请勿盗版。具体代码实现可以参见本人的GitHub主页：http://
+        qianzf.github.io
+    </string>
+    <string name="title_activity_fullscreen">使用帮助</string>
+</resources>
